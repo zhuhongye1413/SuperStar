@@ -1,24 +1,25 @@
-name: Test github actions 
+name: 刷课
  
-on: # 什么时候触发
+on: 
   push:
     branches: [ actions ]
  
-jobs: # 执行的工作
+jobs: 
   run_demo_actions:
     runs-on: ubuntu-latest # 在最新版本的 Ubuntu 操作系统环境下运行
     steps: # 要执行的步骤
-      - name: Checkout code
+      - name: 拷贝代码
         uses: actions/checkout@v3  # 用于将github代码仓库的代码拷贝到工作目录中
  
-      - name: Set up Python
+      - name: 设置python环境
         uses: actions/setup-python@v2 # 用于设置 Python 环境，它允许你指定要在工作环境中使用的 Python 版本
         with:
           python-version: '3.9'  # 选择要用的Python版本
  
-      - name: Install requirements.txt
+      - name: 安装依赖包
         run: | # 安装依赖包
           pip install -r ./requirements.txt 
- 
+          
+      
       - name: Run main.py
         run: python main.py -u 15092321932 -p 9854264yjn -l 244403509 
