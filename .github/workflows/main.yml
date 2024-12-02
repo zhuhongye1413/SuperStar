@@ -5,7 +5,7 @@ on:
     branches: [ actions ]
  
 jobs: 
-  刷课:
+  Start:
     runs-on: ubuntu-latest # 在最新版本的 Ubuntu 操作系统环境下运行
     steps: # 要执行的步骤
       - name: 拷贝代码
