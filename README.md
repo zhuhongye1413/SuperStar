@@ -18,12 +18,8 @@
 
 # ❤️快速开始
 Fork本仓库<br>
-开启GitHub Actions
-生成静态文件
-```
-hexo ge
-```
-本地预览
-```
-hexo s
-```
+开启GitHub Actions<br>
+修改.gothub/workflows/main.yml(具体注释在文件内)
+
+# 严禁用于商业用途！
+
