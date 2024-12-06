@@ -21,5 +21,5 @@ Fork本仓库<br>
 开启GitHub Actions<br>
 修改.gothub/workflows/main.yml(具体注释在文件内)
 
-# 严禁用于商业用途！
+# 🈲严禁用于商业用途！
 
