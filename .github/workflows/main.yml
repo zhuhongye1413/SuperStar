@@ -1,10 +1,11 @@
 name: 刷课
  
 on: 
+  push:
+    branches: [ main ]
   schedule:
-    - cron: "0 8 * * *"
-    #每天8点开始刷课
- 
+    - cron: "0 8 * * *" #每天8点开始刷课
+    
 jobs: 
   Start:
     runs-on: ubuntu-latest # 在最新版本的 Ubuntu 操作系统环境下运行
