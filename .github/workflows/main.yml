@@ -22,4 +22,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 19561033287 -p hou123456 -l 245838436 #中华诗词之美
+        run: python main.py -u 19561033287 -p hou123456 -l 245838439 #物理学
