@@ -22,4 +22,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 18354619817 -p 20051222wyz -l 239213520 #物理学
+        run: python main.py -u 17515215686 -p yjh20060426 -l 207007433 #物理学
