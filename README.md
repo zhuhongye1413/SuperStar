@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://blog.springing.top/p/20241119/" target="blank">
-    <img src="https://immm.springing.top/2024/12/01/674c4cea68859.webp" alt="Logo" width="156" height="156">
+    <img src="https://blog.springing.top/img/674c4cea68859.png" alt="Logo" width="156" height="156">
   </a>
   <h2 align="center" style="font-weight: 600">学习通云端刷课脚本</h2>
 
