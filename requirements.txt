@@ -7,4 +7,3 @@ loguru
 celery
 flask
 fonttools
-openai
