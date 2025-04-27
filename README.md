@@ -9,7 +9,7 @@
     利用Github actions|自动化刷课|无人值守|云端刷课
     <br />
     <a href="https://blog.springing.top/p/20241119/" target="blank"><strong>🌎 小白使用说明</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="https://github.com/Samueli924/chaoxing" target="blank"><strong>📦️ EXE版本仓库</strong></a>&nbsp;&nbsp;
+    <a href="https://github.com/Samueli924/chaoxing" target="blank"><strong>📦️ 源仓库</strong></a>&nbsp;&nbsp;
     <br />
     <br />
   </p>
